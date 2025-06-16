@@ -1,0 +1,106 @@
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 207.015 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+Process finished with error: TimeoutExpired : Command '['python', '12_findPathRRT.py', '-i', 'restricted_areaA.csv', '-o', 'pointsRRT_A.csv']' timed out after 299.99998556000355 seconds
+----
+Execution time: 300.067 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 108.538 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 137.013 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 80.016 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+Process finished with error: TimeoutExpired : Command '['python', '12_findPathRRT.py', '-i', 'restricted_areaA.csv', '-o', 'pointsRRT_A.csv']' timed out after 299.9999654839921 seconds
+----
+Execution time: 300.074 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 182.003 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 166.067 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 94.063 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 139.124 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+Process finished with error: TimeoutExpired : Command '['python', '12_findPathRRT.py', '-i', 'restricted_areaA.csv', '-o', 'pointsRRT_A.csv']' timed out after 299.99998435299494 seconds
+----
+Execution time: 300.131 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 225.661 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 105.373 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 112.949 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 84.626 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+Process finished with error: TimeoutExpired : Command '['python', '12_findPathRRT.py', '-i', 'restricted_areaA.csv', '-o', 'pointsRRT_A.csv']' timed out after 299.99998498600326 seconds
+----
+Execution time: 300.075 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 133.390 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+Process finished with error: TimeoutExpired : Command '['python', '12_findPathRRT.py', '-i', 'restricted_areaA.csv', '-o', 'pointsRRT_A.csv']' timed out after 299.9999859009986 seconds
+----
+Execution time: 300.074 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 232.795 sec
+Redirecting script output to file "../results/output_RRT_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+Process finished with error: TimeoutExpired : Command '['python', '12_findPathRRT.py', '-i', 'restricted_areaA.csv', '-o', 'pointsRRT_A.csv']' timed out after 299.9999850489985 seconds
+----
+Execution time: 300.045 sec

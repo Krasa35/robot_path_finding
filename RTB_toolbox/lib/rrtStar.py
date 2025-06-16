@@ -49,7 +49,7 @@ def _is_connection_in_collision(p1 : Node, p2 : Node, objects, resolution=0.05):
             return True
     return False
 
-def _sample_free(bounds, dest_node, start_node, ) -> Node:
+def _sample_free(bounds, dest_node, c_best, c_min, start_node, ) -> Node:
     x = np.random.uniform(bounds[0][0], bounds[0][1])
     y = np.random.uniform(bounds[1][0], bounds[1][1])
     z = np.random.uniform(bounds[2][0], bounds[2][1])
@@ -108,15 +108,20 @@ def find_tree(env, bounds, objects, step_size=0.1, rotation_limits=None):
 
     start_node = Node(objects["start"].T[0,3], objects["start"].T[1,3], objects["start"].T[2,3], SO3(objects["panda"].fkine(objects["panda"].q).R))
     dest_node = Node(objects["dest"].T[0,3], objects["dest"].T[1,3], objects["dest"].T[2,3], SO3(objects["panda"].fkine(objects["panda"].q).R))
+
     nodes = [start_node]
     spheres = [objects["start"]]
     best_goal_node = None
+    c_best = float('inf')
+    c_min = _distance(start_node, dest_node)
 
     while not objects["dest"].iscollided(spheres[-1]):
-        rnd_node = _sample_free(bounds, dest_node, start_node)
-        nearest = _get_nearest(nodes, rnd_node)
-        new_node = _steer(nearest, rnd_node, step_size)
-
+        if best_goal_node:
+            new_node = _steer(best_goal_node, dest_node, step_size)
+        else:
+            rnd_node = _sample_free(bounds, dest_node, c_best, c_min, start_node)
+            nearest = _get_nearest(nodes, rnd_node)
+            new_node = _steer(nearest, rnd_node, step_size)
         if not _is_collision(new_node, objects) and not _is_connection_in_collision(nearest, new_node, objects):
             nodes.append(new_node)
             spheres.append(Sphere(radius=objects["start"].radius, color=(150, 150, 150)))
@@ -124,11 +129,16 @@ def find_tree(env, bounds, objects, step_size=0.1, rotation_limits=None):
             env.add(spheres[-1])
             if _distance(new_node, dest_node) <= 0.25 and not _is_connection_in_collision(new_node, dest_node, objects):
                 best_goal_node = new_node
+                c_best = best_goal_node.cost
 
-    dest_node = Node(dest_node.x, dest_node.y, dest_node.z, dest_node.rot_matrix, best_goal_node, q=objects["panda"].qr)
+    dest_node = Node(dest_node.x, dest_node.y, dest_node.z, dest_node.rot_matrix, best_goal_node, best_goal_node.cost + _distance(best_goal_node, dest_node), objects["panda"].qr)
     nodes.append(dest_node)
     best_goal_node = dest_node
-    # path_nodes = _show_path(env, best_goal_node, radius=objects["start"].radius)
-    path_nodes = _find_robot_path(env, best_goal_node, objects, radius=objects["start"].radius, rotation_limits=rotation_limits)
-    return path_nodes, spheres, nodes
-    
+    if best_goal_node == dest_node:
+        # path_nodes = _show_path(env, best_goal_node, radius=objects["start"].radius)
+        path_nodes = _find_robot_path(env, best_goal_node, objects, radius=objects["start"].radius, rotation_limits=rotation_limits)
+        return path_nodes, spheres, nodes
+
+    print("Valid path not found.")
+    return None
+

@@ -1,0 +1,165 @@
+New execution:
+Traceback (most recent call last):
+  File "/home/janek/Documents/GitHub/robot_path_finding/RTB_toolbox/13_findPathRRTstar.py", line 20, in <module>
+    df = pandas.read_csv(PATH_IN)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 577, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1407, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1661, in _make_engine
+    self.handles = get_handle(
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/common.py", line 859, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/home/janek/Documents/GitHub/robot_path_finding/Resources/restricted_area.csv'
+New execution:
+Traceback (most recent call last):
+  File "/home/janek/Documents/GitHub/robot_path_finding/RTB_toolbox/13_findPathRRTstar.py", line 20, in <module>
+    df = pandas.read_csv(PATH_IN)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 577, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1407, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1661, in _make_engine
+    self.handles = get_handle(
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/common.py", line 859, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/home/janek/Documents/GitHub/robot_path_finding/Resources/restricted_area.csv'
+New execution:
+New execution:
+New execution:
+Traceback (most recent call last):
+  File "/home/janek/Documents/GitHub/robot_path_finding/RTB_toolbox/13_findPathRRTstar.py", line 20, in <module>
+    df = pandas.read_csv(PATH_IN)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 577, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1407, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1661, in _make_engine
+    self.handles = get_handle(
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/common.py", line 859, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/home/janek/Documents/GitHub/robot_path_finding/Resources/restricted_area.csv'
+New execution:
+Traceback (most recent call last):
+  File "/home/janek/Documents/GitHub/robot_path_finding/RTB_toolbox/13_findPathRRTstar.py", line 20, in <module>
+    df = pandas.read_csv(PATH_IN)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 577, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1407, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1661, in _make_engine
+    self.handles = get_handle(
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/common.py", line 859, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/home/janek/Documents/GitHub/robot_path_finding/Resources/restricted_area.csv'
+New execution:
+Traceback (most recent call last):
+  File "/home/janek/Documents/GitHub/robot_path_finding/RTB_toolbox/13_findPathRRTstar.py", line 20, in <module>
+    df = pandas.read_csv(PATH_IN)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 577, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1407, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1661, in _make_engine
+    self.handles = get_handle(
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/common.py", line 859, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/home/janek/Documents/GitHub/robot_path_finding/Resources/restricted_area.csv'
+New execution:
+Traceback (most recent call last):
+  File "/home/janek/Documents/GitHub/robot_path_finding/RTB_toolbox/13_findPathRRTstar.py", line 20, in <module>
+    df = pandas.read_csv(PATH_IN)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 577, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1407, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1661, in _make_engine
+    self.handles = get_handle(
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/common.py", line 859, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/home/janek/Documents/GitHub/robot_path_finding/Resources/restricted_area.csv'
+New execution:
+Traceback (most recent call last):
+  File "/home/janek/Documents/GitHub/robot_path_finding/RTB_toolbox/13_findPathRRTstar.py", line 20, in <module>
+    df = pandas.read_csv(PATH_IN)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 577, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1407, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1661, in _make_engine
+    self.handles = get_handle(
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/common.py", line 859, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/home/janek/Documents/GitHub/robot_path_finding/Resources/restricted_area.csv'
+New execution:
+Traceback (most recent call last):
+  File "/home/janek/Documents/GitHub/robot_path_finding/RTB_toolbox/13_findPathRRTstar.py", line 20, in <module>
+    df = pandas.read_csv(PATH_IN)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 577, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1407, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1661, in _make_engine
+    self.handles = get_handle(
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/common.py", line 859, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/home/janek/Documents/GitHub/robot_path_finding/Resources/restricted_area.csv'
+New execution:
+Traceback (most recent call last):
+  File "/home/janek/Documents/GitHub/robot_path_finding/RTB_toolbox/13_findPathRRTstar.py", line 20, in <module>
+    df = pandas.read_csv(PATH_IN)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 577, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1407, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1661, in _make_engine
+    self.handles = get_handle(
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/common.py", line 859, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/home/janek/Documents/GitHub/robot_path_finding/Resources/restricted_area.csv'
+New execution:
+Traceback (most recent call last):
+  File "/home/janek/Documents/GitHub/robot_path_finding/RTB_toolbox/13_findPathRRTstar.py", line 20, in <module>
+    df = pandas.read_csv(PATH_IN)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 577, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1407, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1661, in _make_engine
+    self.handles = get_handle(
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/common.py", line 859, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/home/janek/Documents/GitHub/robot_path_finding/Resources/restricted_area.csv'
+New execution:
+Traceback (most recent call last):
+  File "/home/janek/Documents/GitHub/robot_path_finding/RTB_toolbox/13_findPathRRTstar.py", line 20, in <module>
+    df = pandas.read_csv(PATH_IN)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 577, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1407, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1661, in _make_engine
+    self.handles = get_handle(
+  File "/home/janek/Documents/GitHub/robot_path_finding/.venv/lib/python3.10/site-packages/pandas/io/common.py", line 859, in get_handle

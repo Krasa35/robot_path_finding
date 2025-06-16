@@ -1,0 +1,102 @@
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 57.962 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 147.384 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 111.792 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 56.962 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+Process finished with error: TimeoutExpired : Command '['python', '13_findPathRRTstar.py', '-i', 'restricted_areaC.csv', '-o', 'pointsRRTstar_C.csv']' timed out after 299.9999851320026 seconds
+----
+Execution time: 301.196 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 70.789 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 126.580 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 101.630 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 170.298 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 70.049 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 65.681 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+Process finished with error: TimeoutExpired : Command '['python', '13_findPathRRTstar.py', '-i', 'restricted_areaC.csv', '-o', 'pointsRRTstar_C.csv']' timed out after 299.9999854869966 seconds
+----
+Execution time: 301.239 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 55.658 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 123.422 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 69.792 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 143.012 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 75.056 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 63.328 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 69.188 sec
+Redirecting script output to file "../results/output_RRTstar_C.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 162.625 sec

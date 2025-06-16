@@ -1,0 +1,2443 @@
+Execution 2025-06-16 02:32:46.191030:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+135 tries with 
+	134 joints bugs and
+	39 collision bugs when joints ok. 
+This results in thresh of 0.37.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+495 tries with 
+	491 joints bugs and
+	179 collision bugs when joints ok. 
+This results in thresh of 1.09.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+173 tries with 
+	171 joints bugs and
+	26 collision bugs when joints ok. 
+This results in thresh of 0.44600000000000006.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+208 tries with 
+	207 joints bugs and
+	38 collision bugs when joints ok. 
+This results in thresh of 0.516.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+160 tries with 
+	159 joints bugs and
+	14 collision bugs when joints ok. 
+This results in thresh of 0.42000000000000004.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+137 tries with 
+	136 joints bugs and
+	17 collision bugs when joints ok. 
+This results in thresh of 0.374.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+226 tries with 
+	225 joints bugs and
+	8 collision bugs when joints ok. 
+This results in thresh of 0.552.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+169 tries with 
+	168 joints bugs and
+	5 collision bugs when joints ok. 
+This results in thresh of 0.43800000000000006.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+253 tries with 
+	252 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.606.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+203 tries with 
+	202 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.506.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+268 tries with 
+	267 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.636.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+199 tries with 
+	198 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.498.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+232 tries with 
+	231 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.5640000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+236 tries with 
+	235 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.5720000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+284 tries with 
+	283 joints bugs and
+	4 collision bugs when joints ok. 
+This results in thresh of 0.668.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+160 tries with 
+	159 joints bugs and
+	8 collision bugs when joints ok. 
+This results in thresh of 0.42000000000000004.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+423 tries with 
+	422 joints bugs and
+	73 collision bugs when joints ok. 
+This results in thresh of 0.946.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+360 tries with 
+	359 joints bugs and
+	46 collision bugs when joints ok. 
+This results in thresh of 0.82.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+287 tries with 
+	286 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.674.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+237 tries with 
+	236 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.5740000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+402 tries with 
+	401 joints bugs and
+	9 collision bugs when joints ok. 
+This results in thresh of 0.904.
+Path found with 21 nodes within 924 vertices.
+Execution 2025-06-16 02:46:15.021156:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+155 tries with 
+	154 joints bugs and
+	35 collision bugs when joints ok. 
+This results in thresh of 0.41000000000000003.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+335 tries with 
+	334 joints bugs and
+	101 collision bugs when joints ok. 
+This results in thresh of 0.77.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+492 tries with 
+	481 joints bugs and
+	128 collision bugs when joints ok. 
+This results in thresh of 1.084.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+308 tries with 
+	307 joints bugs and
+	28 collision bugs when joints ok. 
+This results in thresh of 0.716.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+341 tries with 
+	340 joints bugs and
+	109 collision bugs when joints ok. 
+This results in thresh of 0.782.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+334 tries with 
+	332 joints bugs and
+	63 collision bugs when joints ok. 
+This results in thresh of 0.768.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+274 tries with 
+	273 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.648.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+187 tries with 
+	186 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.474.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+196 tries with 
+	195 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.492.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+207 tries with 
+	206 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.514.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+217 tries with 
+	216 joints bugs and
+	15 collision bugs when joints ok. 
+This results in thresh of 0.534.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+227 tries with 
+	226 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.554.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+250 tries with 
+	249 joints bugs and
+	10 collision bugs when joints ok. 
+This results in thresh of 0.6.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+254 tries with 
+	253 joints bugs and
+	3 collision bugs when joints ok. 
+This results in thresh of 0.608.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+454 tries with 
+	453 joints bugs and
+	29 collision bugs when joints ok. 
+This results in thresh of 1.008.
+Path found with 15 nodes within 296 vertices.
+Execution 2025-06-16 03:01:07.031811:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+2 tries with 
+	1 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.10400000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+348 tries with 
+	346 joints bugs and
+	110 collision bugs when joints ok. 
+This results in thresh of 0.796.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+343 tries with 
+	342 joints bugs and
+	86 collision bugs when joints ok. 
+This results in thresh of 0.786.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+225 tries with 
+	224 joints bugs and
+	22 collision bugs when joints ok. 
+This results in thresh of 0.55.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+174 tries with 
+	173 joints bugs and
+	16 collision bugs when joints ok. 
+This results in thresh of 0.44800000000000006.
+Beggining the process of validating the robot pose...
+Execution 2025-06-16 03:19:14.983544:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+103 tries with 
+	102 joints bugs and
+	23 collision bugs when joints ok. 
+This results in thresh of 0.30600000000000005.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+232 tries with 
+	231 joints bugs and
+	79 collision bugs when joints ok. 
+This results in thresh of 0.5640000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+406 tries with 
+	402 joints bugs and
+	109 collision bugs when joints ok. 
+This results in thresh of 0.912.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+265 tries with 
+	264 joints bugs and
+	108 collision bugs when joints ok. 
+This results in thresh of 0.63.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+214 tries with 
+	213 joints bugs and
+	116 collision bugs when joints ok. 
+This results in thresh of 0.528.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+296 tries with 
+	295 joints bugs and
+	76 collision bugs when joints ok. 
+This results in thresh of 0.692.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+184 tries with 
+	183 joints bugs and
+	36 collision bugs when joints ok. 
+This results in thresh of 0.46799999999999997.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+788 tries with 
+	787 joints bugs and
+	43 collision bugs when joints ok. 
+This results in thresh of 1.6760000000000002.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+256 tries with 
+	255 joints bugs and
+	49 collision bugs when joints ok. 
+This results in thresh of 0.612.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+207 tries with 
+	205 joints bugs and
+	24 collision bugs when joints ok. 
+This results in thresh of 0.514.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+209 tries with 
+	208 joints bugs and
+	6 collision bugs when joints ok. 
+This results in thresh of 0.518.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+172 tries with 
+	171 joints bugs and
+	3 collision bugs when joints ok. 
+This results in thresh of 0.44400000000000006.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+235 tries with 
+	234 joints bugs and
+	8 collision bugs when joints ok. 
+This results in thresh of 0.5700000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+639 tries with 
+	638 joints bugs and
+	4 collision bugs when joints ok. 
+This results in thresh of 1.3780000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1493 tries with 
+	1492 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 3.0860000000000003.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+244 tries with 
+	243 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.588.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+239 tries with 
+	238 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.5780000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+551 tries with 
+	550 joints bugs and
+	3 collision bugs when joints ok. 
+This results in thresh of 1.2020000000000002.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+914 tries with 
+	913 joints bugs and
+	7 collision bugs when joints ok. 
+This results in thresh of 1.9280000000000002.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1076 tries with 
+	1075 joints bugs and
+	695 collision bugs when joints ok. 
+This results in thresh of 2.2520000000000002.
+Path found with 20 nodes within 652 vertices.
+Execution 2025-06-16 03:32:51.578959:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+181 tries with 
+	180 joints bugs and
+	49 collision bugs when joints ok. 
+This results in thresh of 0.46199999999999997.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+364 tries with 
+	363 joints bugs and
+	104 collision bugs when joints ok. 
+This results in thresh of 0.828.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+222 tries with 
+	221 joints bugs and
+	21 collision bugs when joints ok. 
+This results in thresh of 0.544.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+190 tries with 
+	189 joints bugs and
+	14 collision bugs when joints ok. 
+This results in thresh of 0.48.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+141 tries with 
+	140 joints bugs and
+	6 collision bugs when joints ok. 
+This results in thresh of 0.382.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+29 tries with 
+	28 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.158.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+241 tries with 
+	240 joints bugs and
+	9 collision bugs when joints ok. 
+This results in thresh of 0.582.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+179 tries with 
+	178 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.45799999999999996.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+240 tries with 
+	239 joints bugs and
+	5 collision bugs when joints ok. 
+This results in thresh of 0.58.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+169 tries with 
+	168 joints bugs and
+	10 collision bugs when joints ok. 
+This results in thresh of 0.43800000000000006.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+88 tries with 
+	87 joints bugs and
+	4 collision bugs when joints ok. 
+This results in thresh of 0.276.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+289 tries with 
+	288 joints bugs and
+	35 collision bugs when joints ok. 
+This results in thresh of 0.6779999999999999.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+231 tries with 
+	230 joints bugs and
+	21 collision bugs when joints ok. 
+This results in thresh of 0.562.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+182 tries with 
+	181 joints bugs and
+	27 collision bugs when joints ok. 
+This results in thresh of 0.46399999999999997.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+441 tries with 
+	436 joints bugs and
+	89 collision bugs when joints ok. 
+This results in thresh of 0.982.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+206 tries with 
+	205 joints bugs and
+	20 collision bugs when joints ok. 
+This results in thresh of 0.512.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+208 tries with 
+	207 joints bugs and
+	10 collision bugs when joints ok. 
+This results in thresh of 0.516.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+216 tries with 
+	215 joints bugs and
+	8 collision bugs when joints ok. 
+This results in thresh of 0.532.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+278 tries with 
+	277 joints bugs and
+	12 collision bugs when joints ok. 
+This results in thresh of 0.656.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1195 tries with 
+	1194 joints bugs and
+	27 collision bugs when joints ok. 
+This results in thresh of 2.49.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+369 tries with 
+	368 joints bugs and
+	16 collision bugs when joints ok. 
+This results in thresh of 0.838.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+224 tries with 
+	223 joints bugs and
+	29 collision bugs when joints ok. 
+This results in thresh of 0.548.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+445 tries with 
+	444 joints bugs and
+	57 collision bugs when joints ok. 
+This results in thresh of 0.99.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+414 tries with 
+	413 joints bugs and
+	60 collision bugs when joints ok. 
+This results in thresh of 0.928.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+273 tries with 
+	272 joints bugs and
+	74 collision bugs when joints ok. 
+This results in thresh of 0.646.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+343 tries with 
+	341 joints bugs and
+	314 collision bugs when joints ok. 
+This results in thresh of 0.786.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+2424 tries with 
+	2423 joints bugs and
+	2329 collision bugs when joints ok. 
+This results in thresh of 4.9479999999999995.
+Path found with 27 nodes within 1296 vertices.
+Execution 2025-06-16 03:54:06.954308:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+97 tries with 
+	96 joints bugs and
+	25 collision bugs when joints ok. 
+This results in thresh of 0.29400000000000004.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+104 tries with 
+	103 joints bugs and
+	19 collision bugs when joints ok. 
+This results in thresh of 0.30800000000000005.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+285 tries with 
+	284 joints bugs and
+	77 collision bugs when joints ok. 
+This results in thresh of 0.67.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+243 tries with 
+	242 joints bugs and
+	25 collision bugs when joints ok. 
+This results in thresh of 0.586.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+207 tries with 
+	206 joints bugs and
+	11 collision bugs when joints ok. 
+This results in thresh of 0.514.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+173 tries with 
+	172 joints bugs and
+	10 collision bugs when joints ok. 
+This results in thresh of 0.44600000000000006.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+181 tries with 
+	180 joints bugs and
+	5 collision bugs when joints ok. 
+This results in thresh of 0.46199999999999997.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+202 tries with 
+	201 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.504.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+222 tries with 
+	221 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.544.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+194 tries with 
+	193 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.488.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+201 tries with 
+	200 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.502.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+200 tries with 
+	199 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.5.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+184 tries with 
+	183 joints bugs and
+	4 collision bugs when joints ok. 
+This results in thresh of 0.46799999999999997.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+256 tries with 
+	255 joints bugs and
+	11 collision bugs when joints ok. 
+This results in thresh of 0.612.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+184 tries with 
+	183 joints bugs and
+	7 collision bugs when joints ok. 
+This results in thresh of 0.46799999999999997.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+284 tries with 
+	283 joints bugs and
+	23 collision bugs when joints ok. 
+This results in thresh of 0.668.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+314 tries with 
+	313 joints bugs and
+	5 collision bugs when joints ok. 
+This results in thresh of 0.728.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+291 tries with 
+	290 joints bugs and
+	11 collision bugs when joints ok. 
+This results in thresh of 0.6819999999999999.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+302 tries with 
+	301 joints bugs and
+	7 collision bugs when joints ok. 
+This results in thresh of 0.704.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+468 tries with 
+	467 joints bugs and
+	6 collision bugs when joints ok. 
+This results in thresh of 1.036.
+Path found with 20 nodes within 534 vertices.
+Execution 2025-06-16 04:08:09.788230:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+159 tries with 
+	158 joints bugs and
+	41 collision bugs when joints ok. 
+This results in thresh of 0.41800000000000004.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+171 tries with 
+	170 joints bugs and
+	31 collision bugs when joints ok. 
+This results in thresh of 0.44200000000000006.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+277 tries with 
+	275 joints bugs and
+	15 collision bugs when joints ok. 
+This results in thresh of 0.654.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+259 tries with 
+	258 joints bugs and
+	13 collision bugs when joints ok. 
+This results in thresh of 0.618.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+233 tries with 
+	232 joints bugs and
+	19 collision bugs when joints ok. 
+This results in thresh of 0.5660000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+439 tries with 
+	429 joints bugs and
+	38 collision bugs when joints ok. 
+This results in thresh of 0.978.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+170 tries with 
+	169 joints bugs and
+	13 collision bugs when joints ok. 
+This results in thresh of 0.44000000000000006.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+195 tries with 
+	194 joints bugs and
+	4 collision bugs when joints ok. 
+This results in thresh of 0.49.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+276 tries with 
+	275 joints bugs and
+	5 collision bugs when joints ok. 
+This results in thresh of 0.652.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+132 tries with 
+	131 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.364.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+191 tries with 
+	190 joints bugs and
+	9 collision bugs when joints ok. 
+This results in thresh of 0.482.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+291 tries with 
+	290 joints bugs and
+	15 collision bugs when joints ok. 
+This results in thresh of 0.6819999999999999.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+341 tries with 
+	340 joints bugs and
+	60 collision bugs when joints ok. 
+This results in thresh of 0.782.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+359 tries with 
+	358 joints bugs and
+	48 collision bugs when joints ok. 
+This results in thresh of 0.818.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+365 tries with 
+	364 joints bugs and
+	63 collision bugs when joints ok. 
+This results in thresh of 0.83.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+408 tries with 
+	407 joints bugs and
+	50 collision bugs when joints ok. 
+This results in thresh of 0.916.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+330 tries with 
+	329 joints bugs and
+	60 collision bugs when joints ok. 
+This results in thresh of 0.76.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+899 tries with 
+	898 joints bugs and
+	101 collision bugs when joints ok. 
+This results in thresh of 1.8980000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1127 tries with 
+	1126 joints bugs and
+	117 collision bugs when joints ok. 
+This results in thresh of 2.354.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+783 tries with 
+	782 joints bugs and
+	104 collision bugs when joints ok. 
+This results in thresh of 1.6660000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+688 tries with 
+	687 joints bugs and
+	252 collision bugs when joints ok. 
+This results in thresh of 1.4760000000000002.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1728 tries with 
+	1727 joints bugs and
+	1617 collision bugs when joints ok. 
+This results in thresh of 3.556.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1060 tries with 
+	1059 joints bugs and
+	12 collision bugs when joints ok. 
+This results in thresh of 2.22.
+Path found with 23 nodes within 250 vertices.
+Execution 2025-06-16 04:20:28.007197:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Execution 2025-06-16 04:35:08.707409:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+126 tries with 
+	125 joints bugs and
+	34 collision bugs when joints ok. 
+This results in thresh of 0.352.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+252 tries with 
+	251 joints bugs and
+	62 collision bugs when joints ok. 
+This results in thresh of 0.604.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+339 tries with 
+	336 joints bugs and
+	109 collision bugs when joints ok. 
+This results in thresh of 0.778.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+167 tries with 
+	166 joints bugs and
+	32 collision bugs when joints ok. 
+This results in thresh of 0.43400000000000005.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+228 tries with 
+	227 joints bugs and
+	63 collision bugs when joints ok. 
+This results in thresh of 0.556.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+233 tries with 
+	232 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.5660000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+181 tries with 
+	180 joints bugs and
+	8 collision bugs when joints ok. 
+This results in thresh of 0.46199999999999997.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+244 tries with 
+	243 joints bugs and
+	8 collision bugs when joints ok. 
+This results in thresh of 0.588.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+260 tries with 
+	259 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.62.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+180 tries with 
+	179 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.45999999999999996.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+229 tries with 
+	228 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.558.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+130 tries with 
+	129 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.36.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+206 tries with 
+	205 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.512.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+233 tries with 
+	232 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.5660000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+76 tries with 
+	75 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.252.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+143 tries with 
+	142 joints bugs and
+	4 collision bugs when joints ok. 
+This results in thresh of 0.386.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+199 tries with 
+	198 joints bugs and
+	5 collision bugs when joints ok. 
+This results in thresh of 0.498.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+333 tries with 
+	332 joints bugs and
+	48 collision bugs when joints ok. 
+This results in thresh of 0.766.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+236 tries with 
+	235 joints bugs and
+	4 collision bugs when joints ok. 
+This results in thresh of 0.5720000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+238 tries with 
+	237 joints bugs and
+	3 collision bugs when joints ok. 
+This results in thresh of 0.5760000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+227 tries with 
+	226 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.554.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+276 tries with 
+	275 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.652.
+Path found with 22 nodes within 858 vertices.
+Execution 2025-06-16 04:50:41.424301:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+122 tries with 
+	121 joints bugs and
+	36 collision bugs when joints ok. 
+This results in thresh of 0.344.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+192 tries with 
+	191 joints bugs and
+	79 collision bugs when joints ok. 
+This results in thresh of 0.484.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+178 tries with 
+	177 joints bugs and
+	25 collision bugs when joints ok. 
+This results in thresh of 0.45599999999999996.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+175 tries with 
+	174 joints bugs and
+	13 collision bugs when joints ok. 
+This results in thresh of 0.45000000000000007.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+142 tries with 
+	141 joints bugs and
+	9 collision bugs when joints ok. 
+This results in thresh of 0.384.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+236 tries with 
+	235 joints bugs and
+	4 collision bugs when joints ok. 
+This results in thresh of 0.5720000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+121 tries with 
+	120 joints bugs and
+	5 collision bugs when joints ok. 
+This results in thresh of 0.34199999999999997.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+174 tries with 
+	173 joints bugs and
+	5 collision bugs when joints ok. 
+This results in thresh of 0.44800000000000006.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+203 tries with 
+	202 joints bugs and
+	6 collision bugs when joints ok. 
+This results in thresh of 0.506.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+289 tries with 
+	288 joints bugs and
+	7 collision bugs when joints ok. 
+This results in thresh of 0.6779999999999999.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+236 tries with 
+	235 joints bugs and
+	12 collision bugs when joints ok. 
+This results in thresh of 0.5720000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+197 tries with 
+	196 joints bugs and
+	6 collision bugs when joints ok. 
+This results in thresh of 0.494.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+170 tries with 
+	169 joints bugs and
+	10 collision bugs when joints ok. 
+This results in thresh of 0.44000000000000006.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+233 tries with 
+	232 joints bugs and
+	24 collision bugs when joints ok. 
+This results in thresh of 0.5660000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+403 tries with 
+	402 joints bugs and
+	61 collision bugs when joints ok. 
+This results in thresh of 0.906.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+444 tries with 
+	443 joints bugs and
+	58 collision bugs when joints ok. 
+This results in thresh of 0.988.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+391 tries with 
+	390 joints bugs and
+	38 collision bugs when joints ok. 
+This results in thresh of 0.882.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1020 tries with 
+	1019 joints bugs and
+	220 collision bugs when joints ok. 
+This results in thresh of 2.14.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+988 tries with 
+	987 joints bugs and
+	38 collision bugs when joints ok. 
+This results in thresh of 2.076.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+879 tries with 
+	878 joints bugs and
+	81 collision bugs when joints ok. 
+This results in thresh of 1.858.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1497 tries with 
+	1496 joints bugs and
+	4 collision bugs when joints ok. 
+This results in thresh of 3.0940000000000003.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+161 tries with 
+	160 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.42200000000000004.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+232 tries with 
+	231 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.5640000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+189 tries with 
+	188 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.478.
+Path found with 24 nodes within 857 vertices.
+Execution 2025-06-16 05:06:06.435625:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+191 tries with 
+	190 joints bugs and
+	58 collision bugs when joints ok. 
+This results in thresh of 0.482.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+433 tries with 
+	432 joints bugs and
+	205 collision bugs when joints ok. 
+This results in thresh of 0.966.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+213 tries with 
+	212 joints bugs and
+	92 collision bugs when joints ok. 
+This results in thresh of 0.526.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+258 tries with 
+	257 joints bugs and
+	146 collision bugs when joints ok. 
+This results in thresh of 0.616.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+280 tries with 
+	279 joints bugs and
+	121 collision bugs when joints ok. 
+This results in thresh of 0.66.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+321 tries with 
+	320 joints bugs and
+	132 collision bugs when joints ok. 
+This results in thresh of 0.742.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+284 tries with 
+	283 joints bugs and
+	23 collision bugs when joints ok. 
+This results in thresh of 0.668.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+485 tries with 
+	484 joints bugs and
+	3 collision bugs when joints ok. 
+This results in thresh of 1.07.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+233 tries with 
+	232 joints bugs and
+	7 collision bugs when joints ok. 
+This results in thresh of 0.5660000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+337 tries with 
+	336 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.774.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+343 tries with 
+	342 joints bugs and
+	35 collision bugs when joints ok. 
+This results in thresh of 0.786.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+263 tries with 
+	262 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.626.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+306 tries with 
+	305 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.712.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+269 tries with 
+	268 joints bugs and
+	40 collision bugs when joints ok. 
+This results in thresh of 0.638.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+371 tries with 
+	370 joints bugs and
+	48 collision bugs when joints ok. 
+This results in thresh of 0.842.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+154 tries with 
+	153 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.40800000000000003.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+261 tries with 
+	260 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.622.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+144 tries with 
+	143 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.388.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+204 tries with 
+	203 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.508.
+Path found with 19 nodes within 1964 vertices.
+Execution 2025-06-16 05:23:10.602352:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+144 tries with 
+	143 joints bugs and
+	31 collision bugs when joints ok. 
+This results in thresh of 0.388.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+282 tries with 
+	281 joints bugs and
+	55 collision bugs when joints ok. 
+This results in thresh of 0.664.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+211 tries with 
+	210 joints bugs and
+	21 collision bugs when joints ok. 
+This results in thresh of 0.522.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+319 tries with 
+	317 joints bugs and
+	28 collision bugs when joints ok. 
+This results in thresh of 0.738.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+257 tries with 
+	256 joints bugs and
+	16 collision bugs when joints ok. 
+This results in thresh of 0.614.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+165 tries with 
+	164 joints bugs and
+	17 collision bugs when joints ok. 
+This results in thresh of 0.43000000000000005.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+283 tries with 
+	279 joints bugs and
+	127 collision bugs when joints ok. 
+This results in thresh of 0.666.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+322 tries with 
+	320 joints bugs and
+	42 collision bugs when joints ok. 
+This results in thresh of 0.744.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+237 tries with 
+	236 joints bugs and
+	28 collision bugs when joints ok. 
+This results in thresh of 0.5740000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+297 tries with 
+	296 joints bugs and
+	54 collision bugs when joints ok. 
+This results in thresh of 0.694.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+343 tries with 
+	342 joints bugs and
+	56 collision bugs when joints ok. 
+This results in thresh of 0.786.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+448 tries with 
+	447 joints bugs and
+	81 collision bugs when joints ok. 
+This results in thresh of 0.996.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+757 tries with 
+	756 joints bugs and
+	138 collision bugs when joints ok. 
+This results in thresh of 1.614.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1075 tries with 
+	1073 joints bugs and
+	211 collision bugs when joints ok. 
+This results in thresh of 2.25.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+735 tries with 
+	733 joints bugs and
+	145 collision bugs when joints ok. 
+This results in thresh of 1.57.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1376 tries with 
+	1375 joints bugs and
+	584 collision bugs when joints ok. 
+This results in thresh of 2.8520000000000003.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1248 tries with 
+	1247 joints bugs and
+	31 collision bugs when joints ok. 
+This results in thresh of 2.596.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+247 tries with 
+	246 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.594.
+Path found with 18 nodes within 1131 vertices.
+Execution 2025-06-16 05:40:14.306467:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+54 tries with 
+	53 joints bugs and
+	15 collision bugs when joints ok. 
+This results in thresh of 0.20800000000000002.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+363 tries with 
+	360 joints bugs and
+	153 collision bugs when joints ok. 
+This results in thresh of 0.826.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+197 tries with 
+	196 joints bugs and
+	20 collision bugs when joints ok. 
+This results in thresh of 0.494.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+131 tries with 
+	130 joints bugs and
+	53 collision bugs when joints ok. 
+This results in thresh of 0.362.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+160 tries with 
+	159 joints bugs and
+	12 collision bugs when joints ok. 
+This results in thresh of 0.42000000000000004.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+161 tries with 
+	160 joints bugs and
+	7 collision bugs when joints ok. 
+This results in thresh of 0.42200000000000004.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+264 tries with 
+	261 joints bugs and
+	12 collision bugs when joints ok. 
+This results in thresh of 0.628.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+69 tries with 
+	68 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.23800000000000002.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+166 tries with 
+	165 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.43200000000000005.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+138 tries with 
+	137 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.376.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+154 tries with 
+	153 joints bugs and
+	3 collision bugs when joints ok. 
+This results in thresh of 0.40800000000000003.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+165 tries with 
+	164 joints bugs and
+	6 collision bugs when joints ok. 
+This results in thresh of 0.43000000000000005.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+167 tries with 
+	166 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.43400000000000005.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+199 tries with 
+	198 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.498.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+210 tries with 
+	209 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.52.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+201 tries with 
+	200 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.502.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+245 tries with 
+	244 joints bugs and
+	3 collision bugs when joints ok. 
+This results in thresh of 0.59.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+144 tries with 
+	143 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.388.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+118 tries with 
+	117 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.336.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+135 tries with 
+	134 joints bugs and
+	11 collision bugs when joints ok. 
+This results in thresh of 0.37.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+205 tries with 
+	204 joints bugs and
+	30 collision bugs when joints ok. 
+This results in thresh of 0.51.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+227 tries with 
+	226 joints bugs and
+	7 collision bugs when joints ok. 
+This results in thresh of 0.554.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+153 tries with 
+	152 joints bugs and
+	33 collision bugs when joints ok. 
+This results in thresh of 0.406.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+299 tries with 
+	294 joints bugs and
+	191 collision bugs when joints ok. 
+This results in thresh of 0.698.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+161 tries with 
+	160 joints bugs and
+	4 collision bugs when joints ok. 
+This results in thresh of 0.42200000000000004.
+Path found with 25 nodes within 658 vertices.
+Execution 2025-06-16 05:50:40.177443:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+236 tries with 
+	235 joints bugs and
+	75 collision bugs when joints ok. 
+This results in thresh of 0.5720000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+299 tries with 
+	298 joints bugs and
+	85 collision bugs when joints ok. 
+This results in thresh of 0.698.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+352 tries with 
+	351 joints bugs and
+	84 collision bugs when joints ok. 
+This results in thresh of 0.8039999999999999.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+461 tries with 
+	445 joints bugs and
+	81 collision bugs when joints ok. 
+This results in thresh of 1.022.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+231 tries with 
+	230 joints bugs and
+	24 collision bugs when joints ok. 
+This results in thresh of 0.562.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+207 tries with 
+	206 joints bugs and
+	28 collision bugs when joints ok. 
+This results in thresh of 0.514.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+140 tries with 
+	139 joints bugs and
+	6 collision bugs when joints ok. 
+This results in thresh of 0.38.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+302 tries with 
+	301 joints bugs and
+	8 collision bugs when joints ok. 
+This results in thresh of 0.704.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+376 tries with 
+	375 joints bugs and
+	17 collision bugs when joints ok. 
+This results in thresh of 0.852.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+217 tries with 
+	216 joints bugs and
+	31 collision bugs when joints ok. 
+This results in thresh of 0.534.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+226 tries with 
+	225 joints bugs and
+	5 collision bugs when joints ok. 
+This results in thresh of 0.552.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+258 tries with 
+	257 joints bugs and
+	22 collision bugs when joints ok. 
+This results in thresh of 0.616.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+215 tries with 
+	214 joints bugs and
+	8 collision bugs when joints ok. 
+This results in thresh of 0.53.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+214 tries with 
+	213 joints bugs and
+	3 collision bugs when joints ok. 
+This results in thresh of 0.528.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+419 tries with 
+	418 joints bugs and
+	12 collision bugs when joints ok. 
+This results in thresh of 0.938.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+376 tries with 
+	375 joints bugs and
+	20 collision bugs when joints ok. 
+This results in thresh of 0.852.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+518 tries with 
+	517 joints bugs and
+	26 collision bugs when joints ok. 
+This results in thresh of 1.1360000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+867 tries with 
+	866 joints bugs and
+	160 collision bugs when joints ok. 
+This results in thresh of 1.834.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+826 tries with 
+	825 joints bugs and
+	101 collision bugs when joints ok. 
+This results in thresh of 1.7520000000000002.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+874 tries with 
+	871 joints bugs and
+	170 collision bugs when joints ok. 
+This results in thresh of 1.848.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+695 tries with 
+	693 joints bugs and
+	68 collision bugs when joints ok. 
+This results in thresh of 1.4900000000000002.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+910 tries with 
+	909 joints bugs and
+	61 collision bugs when joints ok. 
+This results in thresh of 1.9200000000000002.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1400 tries with 
+	1399 joints bugs and
+	14 collision bugs when joints ok. 
+This results in thresh of 2.9000000000000004.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+287 tries with 
+	286 joints bugs and
+	102 collision bugs when joints ok. 
+This results in thresh of 0.674.
+Path found with 24 nodes within 485 vertices.
+Execution 2025-06-16 06:10:07.542359:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+252 tries with 
+	251 joints bugs and
+	78 collision bugs when joints ok. 
+This results in thresh of 0.604.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+214 tries with 
+	213 joints bugs and
+	85 collision bugs when joints ok. 
+This results in thresh of 0.528.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+181 tries with 
+	180 joints bugs and
+	32 collision bugs when joints ok. 
+This results in thresh of 0.46199999999999997.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+201 tries with 
+	200 joints bugs and
+	26 collision bugs when joints ok. 
+This results in thresh of 0.502.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+281 tries with 
+	279 joints bugs and
+	44 collision bugs when joints ok. 
+This results in thresh of 0.662.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+167 tries with 
+	166 joints bugs and
+	38 collision bugs when joints ok. 
+This results in thresh of 0.43400000000000005.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+265 tries with 
+	264 joints bugs and
+	21 collision bugs when joints ok. 
+This results in thresh of 0.63.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+283 tries with 
+	282 joints bugs and
+	24 collision bugs when joints ok. 
+This results in thresh of 0.666.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+241 tries with 
+	240 joints bugs and
+	19 collision bugs when joints ok. 
+This results in thresh of 0.582.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+215 tries with 
+	214 joints bugs and
+	6 collision bugs when joints ok. 
+This results in thresh of 0.53.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+237 tries with 
+	236 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.5740000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+297 tries with 
+	296 joints bugs and
+	3 collision bugs when joints ok. 
+This results in thresh of 0.694.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+213 tries with 
+	212 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.526.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+154 tries with 
+	153 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.40800000000000003.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+132 tries with 
+	131 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.364.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+188 tries with 
+	187 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.476.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+162 tries with 
+	161 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.42400000000000004.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+174 tries with 
+	173 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.44800000000000006.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+223 tries with 
+	222 joints bugs and
+	14 collision bugs when joints ok. 
+This results in thresh of 0.546.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+241 tries with 
+	240 joints bugs and
+	16 collision bugs when joints ok. 
+This results in thresh of 0.582.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+260 tries with 
+	259 joints bugs and
+	12 collision bugs when joints ok. 
+This results in thresh of 0.62.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+348 tries with 
+	347 joints bugs and
+	25 collision bugs when joints ok. 
+This results in thresh of 0.796.
+Path found with 22 nodes within 277 vertices.
+Execution 2025-06-16 06:23:58.153571:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+88 tries with 
+	87 joints bugs and
+	22 collision bugs when joints ok. 
+This results in thresh of 0.276.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+282 tries with 
+	281 joints bugs and
+	129 collision bugs when joints ok. 
+This results in thresh of 0.664.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+303 tries with 
+	302 joints bugs and
+	100 collision bugs when joints ok. 
+This results in thresh of 0.706.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+177 tries with 
+	176 joints bugs and
+	99 collision bugs when joints ok. 
+This results in thresh of 0.45399999999999996.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+204 tries with 
+	203 joints bugs and
+	82 collision bugs when joints ok. 
+This results in thresh of 0.508.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+249 tries with 
+	248 joints bugs and
+	39 collision bugs when joints ok. 
+This results in thresh of 0.598.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+206 tries with 
+	205 joints bugs and
+	74 collision bugs when joints ok. 
+This results in thresh of 0.512.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+194 tries with 
+	193 joints bugs and
+	37 collision bugs when joints ok. 
+This results in thresh of 0.488.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1054 tries with 
+	1053 joints bugs and
+	47 collision bugs when joints ok. 
+This results in thresh of 2.208.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+354 tries with 
+	353 joints bugs and
+	20 collision bugs when joints ok. 
+This results in thresh of 0.8079999999999999.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+191 tries with 
+	190 joints bugs and
+	13 collision bugs when joints ok. 
+This results in thresh of 0.482.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+293 tries with 
+	292 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.6859999999999999.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+251 tries with 
+	250 joints bugs and
+	24 collision bugs when joints ok. 
+This results in thresh of 0.602.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1245 tries with 
+	1243 joints bugs and
+	209 collision bugs when joints ok. 
+This results in thresh of 2.5900000000000003.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+938 tries with 
+	937 joints bugs and
+	135 collision bugs when joints ok. 
+This results in thresh of 1.9760000000000002.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1134 tries with 
+	1132 joints bugs and
+	35 collision bugs when joints ok. 
+This results in thresh of 2.3680000000000003.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+310 tries with 
+	309 joints bugs and
+	13 collision bugs when joints ok. 
+This results in thresh of 0.72.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+983 tries with 
+	982 joints bugs and
+	20 collision bugs when joints ok. 
+This results in thresh of 2.066.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1389 tries with 
+	1388 joints bugs and
+	39 collision bugs when joints ok. 
+This results in thresh of 2.878.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1930 tries with 
+	1929 joints bugs and
+	29 collision bugs when joints ok. 
+This results in thresh of 3.96.
+Beggining the process of validating the robot pose...
+Execution 2025-06-16 06:42:38.420396:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+84 tries with 
+	83 joints bugs and
+	29 collision bugs when joints ok. 
+This results in thresh of 0.268.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+238 tries with 
+	237 joints bugs and
+	73 collision bugs when joints ok. 
+This results in thresh of 0.5760000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+111 tries with 
+	110 joints bugs and
+	52 collision bugs when joints ok. 
+This results in thresh of 0.322.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+218 tries with 
+	217 joints bugs and
+	39 collision bugs when joints ok. 
+This results in thresh of 0.536.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+261 tries with 
+	260 joints bugs and
+	27 collision bugs when joints ok. 
+This results in thresh of 0.622.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+375 tries with 
+	374 joints bugs and
+	35 collision bugs when joints ok. 
+This results in thresh of 0.85.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+687 tries with 
+	664 joints bugs and
+	116 collision bugs when joints ok. 
+This results in thresh of 1.4740000000000002.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+200 tries with 
+	199 joints bugs and
+	25 collision bugs when joints ok. 
+This results in thresh of 0.5.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+198 tries with 
+	197 joints bugs and
+	15 collision bugs when joints ok. 
+This results in thresh of 0.496.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+218 tries with 
+	217 joints bugs and
+	5 collision bugs when joints ok. 
+This results in thresh of 0.536.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+118 tries with 
+	117 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.336.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+119 tries with 
+	118 joints bugs and
+	3 collision bugs when joints ok. 
+This results in thresh of 0.338.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+179 tries with 
+	178 joints bugs and
+	11 collision bugs when joints ok. 
+This results in thresh of 0.45799999999999996.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+267 tries with 
+	266 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.634.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+188 tries with 
+	187 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.476.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+159 tries with 
+	158 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.41800000000000004.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+102 tries with 
+	101 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.30400000000000005.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+154 tries with 
+	153 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.40800000000000003.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+86 tries with 
+	85 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.272.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+296 tries with 
+	295 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.692.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+229 tries with 
+	228 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.558.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+236 tries with 
+	235 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.5720000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+390 tries with 
+	389 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.88.
+Path found with 23 nodes within 2247 vertices.
+Execution 2025-06-16 07:04:36.324594:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+23 tries with 
+	22 joints bugs and
+	7 collision bugs when joints ok. 
+This results in thresh of 0.14600000000000002.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+307 tries with 
+	306 joints bugs and
+	86 collision bugs when joints ok. 
+This results in thresh of 0.714.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+121 tries with 
+	120 joints bugs and
+	18 collision bugs when joints ok. 
+This results in thresh of 0.34199999999999997.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+226 tries with 
+	225 joints bugs and
+	8 collision bugs when joints ok. 
+This results in thresh of 0.552.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+178 tries with 
+	177 joints bugs and
+	8 collision bugs when joints ok. 
+This results in thresh of 0.45599999999999996.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+131 tries with 
+	130 joints bugs and
+	4 collision bugs when joints ok. 
+This results in thresh of 0.362.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+189 tries with 
+	188 joints bugs and
+	9 collision bugs when joints ok. 
+This results in thresh of 0.478.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+232 tries with 
+	231 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.5640000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+216 tries with 
+	215 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.532.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+137 tries with 
+	136 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.374.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+165 tries with 
+	164 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.43000000000000005.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+198 tries with 
+	197 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.496.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+139 tries with 
+	138 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.378.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+227 tries with 
+	226 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.554.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+304 tries with 
+	303 joints bugs and
+	9 collision bugs when joints ok. 
+This results in thresh of 0.708.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+308 tries with 
+	307 joints bugs and
+	7 collision bugs when joints ok. 
+This results in thresh of 0.716.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+221 tries with 
+	220 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.542.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+286 tries with 
+	285 joints bugs and
+	4 collision bugs when joints ok. 
+This results in thresh of 0.672.
+Path found with 18 nodes within 1489 vertices.
+Execution 2025-06-16 07:17:43.468249:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+183 tries with 
+	182 joints bugs and
+	49 collision bugs when joints ok. 
+This results in thresh of 0.46599999999999997.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+99 tries with 
+	98 joints bugs and
+	26 collision bugs when joints ok. 
+This results in thresh of 0.29800000000000004.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+112 tries with 
+	111 joints bugs and
+	16 collision bugs when joints ok. 
+This results in thresh of 0.324.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+131 tries with 
+	130 joints bugs and
+	11 collision bugs when joints ok. 
+This results in thresh of 0.362.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+307 tries with 
+	304 joints bugs and
+	60 collision bugs when joints ok. 
+This results in thresh of 0.714.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+206 tries with 
+	205 joints bugs and
+	8 collision bugs when joints ok. 
+This results in thresh of 0.512.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+151 tries with 
+	150 joints bugs and
+	14 collision bugs when joints ok. 
+This results in thresh of 0.402.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+231 tries with 
+	230 joints bugs and
+	15 collision bugs when joints ok. 
+This results in thresh of 0.562.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+162 tries with 
+	161 joints bugs and
+	3 collision bugs when joints ok. 
+This results in thresh of 0.42400000000000004.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+151 tries with 
+	150 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.402.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+181 tries with 
+	180 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.46199999999999997.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+133 tries with 
+	132 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.366.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+146 tries with 
+	145 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.392.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+128 tries with 
+	127 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.356.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+202 tries with 
+	201 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.504.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+182 tries with 
+	181 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.46399999999999997.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+133 tries with 
+	132 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.366.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+175 tries with 
+	174 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.45000000000000007.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+183 tries with 
+	182 joints bugs and
+	2 collision bugs when joints ok. 
+This results in thresh of 0.46599999999999997.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+194 tries with 
+	193 joints bugs and
+	3 collision bugs when joints ok. 
+This results in thresh of 0.488.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+269 tries with 
+	268 joints bugs and
+	4 collision bugs when joints ok. 
+This results in thresh of 0.638.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+106 tries with 
+	105 joints bugs and
+	0 collision bugs when joints ok. 
+This results in thresh of 0.312.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+200 tries with 
+	199 joints bugs and
+	8 collision bugs when joints ok. 
+This results in thresh of 0.5.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+146 tries with 
+	145 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.392.
+Path found with 24 nodes within 385 vertices.
+Execution 2025-06-16 07:33:04.736274:
+pybullet build time: Jan 29 2025 23:16:28
+Start point: [ 4.84046815e-01 -6.46597923e-17  2.12629775e-01], dest point: [-0.19715782 -0.04114254  0.79557244].
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+194 tries with 
+	193 joints bugs and
+	57 collision bugs when joints ok. 
+This results in thresh of 0.488.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+263 tries with 
+	262 joints bugs and
+	39 collision bugs when joints ok. 
+This results in thresh of 0.626.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+328 tries with 
+	326 joints bugs and
+	51 collision bugs when joints ok. 
+This results in thresh of 0.756.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+190 tries with 
+	189 joints bugs and
+	26 collision bugs when joints ok. 
+This results in thresh of 0.48.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+224 tries with 
+	223 joints bugs and
+	9 collision bugs when joints ok. 
+This results in thresh of 0.548.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+141 tries with 
+	140 joints bugs and
+	5 collision bugs when joints ok. 
+This results in thresh of 0.382.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+189 tries with 
+	187 joints bugs and
+	12 collision bugs when joints ok. 
+This results in thresh of 0.478.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+229 tries with 
+	224 joints bugs and
+	36 collision bugs when joints ok. 
+This results in thresh of 0.558.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+339 tries with 
+	334 joints bugs and
+	50 collision bugs when joints ok. 
+This results in thresh of 0.778.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+272 tries with 
+	269 joints bugs and
+	15 collision bugs when joints ok. 
+This results in thresh of 0.644.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+406 tries with 
+	401 joints bugs and
+	57 collision bugs when joints ok. 
+This results in thresh of 0.912.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+402 tries with 
+	401 joints bugs and
+	34 collision bugs when joints ok. 
+This results in thresh of 0.904.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+173 tries with 
+	172 joints bugs and
+	22 collision bugs when joints ok. 
+This results in thresh of 0.44600000000000006.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+227 tries with 
+	226 joints bugs and
+	17 collision bugs when joints ok. 
+This results in thresh of 0.554.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+182 tries with 
+	181 joints bugs and
+	18 collision bugs when joints ok. 
+This results in thresh of 0.46399999999999997.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+307 tries with 
+	306 joints bugs and
+	32 collision bugs when joints ok. 
+This results in thresh of 0.714.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+299 tries with 
+	298 joints bugs and
+	38 collision bugs when joints ok. 
+This results in thresh of 0.698.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+235 tries with 
+	234 joints bugs and
+	42 collision bugs when joints ok. 
+This results in thresh of 0.5700000000000001.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1148 tries with 
+	1147 joints bugs and
+	220 collision bugs when joints ok. 
+This results in thresh of 2.3960000000000004.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1426 tries with 
+	1425 joints bugs and
+	16 collision bugs when joints ok. 
+This results in thresh of 2.952.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+992 tries with 
+	991 joints bugs and
+	143 collision bugs when joints ok. 
+This results in thresh of 2.084.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+1703 tries with 
+	1702 joints bugs and
+	87 collision bugs when joints ok. 
+This results in thresh of 3.5060000000000002.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+208 tries with 
+	207 joints bugs and
+	1 collision bugs when joints ok. 
+This results in thresh of 0.516.
+Beggining the process of validating the robot pose...
+Robot pose validated after 
+143 tries with 
+	142 joints bugs and
+	5 collision bugs when joints ok. 
+This results in thresh of 0.386.
+Path found with 24 nodes within 784 vertices.

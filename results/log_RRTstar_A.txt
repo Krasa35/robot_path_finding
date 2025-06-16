@@ -1,0 +1,102 @@
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 58.315 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 65.383 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 140.563 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 156.550 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 140.212 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 64.480 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 47.535 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 101.567 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 73.456 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 219.974 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 86.179 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 89.586 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 122.579 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 55.457 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 127.031 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 114.855 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+Process finished with error: TimeoutExpired : Command '['python', '13_findPathRRTstar.py', '-i', 'restricted_areaA.csv', '-o', 'pointsRRTstar_A.csv']' timed out after 299.99998459100607 seconds
+----
+Execution time: 301.221 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+Process finished with error: TimeoutExpired : Command '['python', '13_findPathRRTstar.py', '-i', 'restricted_areaA.csv', '-o', 'pointsRRTstar_A.csv']' timed out after 299.9999777030025 seconds
+----
+Execution time: 301.233 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 60.920 sec
+Redirecting script output to file "../results/output_RRTstar_A.txt"
+Timeout set to 300.0 sec.
+Starting time measurment 
+----
+Execution time: 159.004 sec
